@@ -4,3 +4,4 @@
 ## git checkout dev
 
 ## git checkout -b dev
+## 试验一下强制禁用fast forword, --no-ff
