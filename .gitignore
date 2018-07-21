@@ -12,4 +12,4 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
-？eslintrc.js
+.eslintrc.js

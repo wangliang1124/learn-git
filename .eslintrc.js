@@ -36,7 +36,7 @@ module.exports = {
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     'semi': ['error', 'never'],  // 不加分号';'
-    'no-console': 1,
+    'no-console': '0000000',
     'prefer-template': 0
   }
 }
