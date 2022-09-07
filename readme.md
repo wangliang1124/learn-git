@@ -22,6 +22,16 @@
 
 ## 添加远程分支 2
 
+## 111
+
+## 222
+
+## 333
+
+## 444
+
+## 555
+
 git status
 ```
 On branch master
@@ -52,6 +62,26 @@ git commit
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+```
+
+有新的提交
+
+```
+On branch master
+Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working tree clean
+```
+
+git pull
+
+git status
+```
+On branch master
+Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 ```
